@@ -1,6 +1,6 @@
 # 🍇 Vinheria Inteligente com Arduino – Monitoramento Ambiental
 
-> Projeto de simulação na plataforma **Tinkercad** com Arduino UNO, para monitoramento em tempo real das condições ambientais de uma vinheria.  
+> Projeto de simulação na plataforma **Tinkercad** com Arduino UNO, para monitoramento em tempo real das condições ambientais de uma vinheira.  
 > Inclui alertas visuais (LEDs) e sonoros (buzzer) conforme faixas ideais de temperatura, umidade e luminosidade.
 
 ---
